@@ -2,11 +2,11 @@
 import React, { useState, useRef } from "react";
 import ProjectCard from "./ProjectCard";
 import { motion, useInView } from "framer-motion";
-import One from "../../assets/1.jpg";
-import Two from "../../assets/2.jpg";
-import Three from "../../assets/3.jpg";
-import Four from "../../assets/4.jpg";
-import Five from "../../assets/5.jpg";
+import One from "../../../public/images/1.jpg";
+import Two from "../../../public/images/2.jpg";
+import Three from "../../../public/images/3.jpg";
+import Four from "../../../public/images/4.jpg";
+import Five from "../../../public/images/5.jpg";
 
 const projectsData = [
 	{
