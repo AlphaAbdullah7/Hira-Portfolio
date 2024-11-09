@@ -12,7 +12,7 @@ const TAB_DATA = [
 				<li>Flutter</li>
 				<li>Java</li>
 				<li>Kotlin, Jetpack Compose</li>
-				<li>Rest API's</li>
+				<li>Rest APIs</li>
 				<li>Firebase, Mongo Db</li>
 				<li>C++, Python</li>
 				<li>Git, Github</li>
